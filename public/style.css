@@ -1,0 +1,30 @@
+#clients{
+  margin:0 auto;
+  margin-top:1%;
+}
+.fab-btn-custom{
+  margin-right:10px;
+}
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+      margin: 0 auto;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('https://cdn.glitch.com/850e59ae-d157-4484-b6d6-95f1e680e040%2Fwelcome_card.jpg?1506711676859') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-textfield{
+     padding: 6px 0;
+    margin-left: 10px;
+}
+
+.mdl-card__actions {
+    padding: 8px;
+    padding-left: 14px;
+}
